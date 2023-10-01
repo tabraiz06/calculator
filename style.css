@@ -10,14 +10,14 @@
     }
 h1{
     text-align: center;
-    color: white;
+    color: rgb(238, 231, 231);
   
 }
  
 
 .container{
     background-color: rgb(84 39 39);
-    max-width: 400px;
+     width: 341px;
     min-height: 400px;
     margin: 50px auto;
     padding-bottom: 10px;
@@ -25,13 +25,13 @@ h1{
     border-radius: 16px;
 }
 .input-holder{
-    width: 84%;
+    width: 77%;
     font-weight: 700;
     padding: 9px;
     font-size: 50px;
     height: 74px;
     background-color: beige;
-    margin: 12px 28px;
+    margin: 12px 27px;
     border-radius: 10px;
 }
 
@@ -42,7 +42,7 @@ h1{
 }
 button{
     margin: 5px 3px;
-    padding: 30px;
+    padding: 25px;
     border-radius: 10px;
     border: none;
     cursor: pointer;
