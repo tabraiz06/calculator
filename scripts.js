@@ -29,6 +29,7 @@ function cal(){
    
     string=eval(string)
     document.querySelector('.input-holder').innerHTML=string
+    string=''
 }
 function clean(){
    
